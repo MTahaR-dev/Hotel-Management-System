@@ -1,13 +1,13 @@
-# Hospital Management System (C++)
+# Hotel Management System (C++)
 
 ## Overview
-This project is a console-based Hospital Management System developed using Object-Oriented Programming (OOP) concepts in C++. It is designed to manage different aspects of hospital operations including patient records, doctor details, appointments, and billing.
+This project is a console-based Hotel Management System developed using Object-Oriented Programming (OOP) concepts in C++. It is designed to manage hotel operations such as guest records, room allocation, reservations, and overall hotel administration.
 
 ## Features
-- Manage patient information
-- Store and manage doctor records
-- Handle appointments between patients and doctors
-- Manage billing and hospital charges
+- Manage guest/customer information
+- Handle room allocation and availability
+- Manage reservations and bookings
+- Maintain hotel records
 - Menu-driven console interface
 
 ## Technologies Used
@@ -29,7 +29,7 @@ This project is a console-based Hospital Management System developed using Objec
 - Add file handling for persistent data storage
 - Improve user interface
 - Add search and update functionality
-- Introduce authentication system
+- Implement advanced booking system
 
 ## Author
 Muhammad Taha Rashid
